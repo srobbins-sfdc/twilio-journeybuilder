@@ -21,7 +21,7 @@
                 }               
             ],
             "outArguments": [],
-            "url": "https://twilio-journeybuilder.herokuapp.com/journeybuilder/execute",
+            "url": "https://polar-taiga-52256.herokuapp.com/saveGenericConfig",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -32,7 +32,7 @@
     "configurationArguments": {
       "applicationExtensionKey": "d1da3738-f016-482a-a856-cad860a49066",
        "save": {
-           "url": "https://twilio-journeybuilder.herokuapp.com/save",
+           "url": "https://polar-taiga-52256.herokuapp.com/save",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -40,7 +40,7 @@
             "timeout": 2000
        },
        "publish": {
-           "url": "https://twilio-journeybuilder.herokuapp.com/publish",
+           "url": "https://polar-taiga-52256.herokuapp.com/publish",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -56,7 +56,7 @@
             "timeout": 2000
        },
        "stop": {
-           "url": "https://twilio-journeybuilder.herokuapp.com/stop",
+           "url": "https://polar-taiga-52256.herokuapp.com/stop",
             "verb": "POST",
             "body": "",
             "format": "json",
